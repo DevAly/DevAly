@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a self-taught and independent Web Developer an
 
 ## 🌱 About Me
 
-- 🎓 **Education**: Degree in Software Engineering from the University Centrale de Tunis (2016).
 - 💼 **Current Role**: Technical Lead Full Stack Developer at Axelites since 2016.
 - 💡 I thrive in building robust, scalable web applications using modern frameworks and technologies.
 - 🌍 Fluent in both French and English, I’m eager to collaborate on international projects.
