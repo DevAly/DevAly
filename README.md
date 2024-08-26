@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm a self-taught and independent Web Developer an
 
 ## 📫 Get in Touch
 
-- 💼 LinkedIn: [Amine Yaakoubi](www.linkedin.com/in/amine-yaakoubi)
+- 💼 LinkedIn: [Amine Yaakoubi](https://www.linkedin.com/in/amine-yaakoubi)
 - 📧 Email: [amine@yaakoubi.me](mailto:amine@yaakoubi.me)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to connect!
