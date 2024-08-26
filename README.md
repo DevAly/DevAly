@@ -46,15 +46,9 @@ Welcome to my GitHub profile! I'm a self-taught and independent Web Developer an
 
 ---
 
-## 🐍 Contribution Snake
-
-![Contribution Snake Animation](https://github.com/DevAly/DevAly/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🚀 Featured Projects
 
-1. **Natividi Marketing Platform**: Redesign of the leading European marketing influence platform, focusing on robust and scalable architecture.
+1. **Marketing Platform**: Redesign of the leading European marketing influence platform, focusing on robust and scalable architecture.
 2. **ERP for E-commerce Furniture Sales**: Development and management of an ERP system for e-commerce solutions using Laravel, VueJS, and Magento integration.
 3. **Auto School Management Application**: A complete management solution for driving schools, including back-office and API development using Laravel.
 4. **Syndicate Portal with Member Space**: Developed a Laravel-based portal with online payment integration and data migration.
